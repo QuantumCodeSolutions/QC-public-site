@@ -3,7 +3,7 @@
     <title>Quantum Code</title>
     <link href="https://quantumcodesolutions.github.io/QC-public-site/feed.xml" rel="self" />
     <link href="https://quantumcodesolutions.github.io/QC-public-site" />
-    <updated>2020-01-16T19:40:24+03:00</updated>
+    <updated>2020-01-16T19:48:28+03:00</updated>
     <author>
         <name>Buaziz</name>
     </author>
@@ -37,16 +37,8 @@
         <link href="https://quantumcodesolutions.github.io/QC-public-site/about-us.html"/>
         <id>https://quantumcodesolutions.github.io/QC-public-site/about-us.html</id>
 
-        <updated>2020-01-16T18:48:52+03:00</updated>
-            <summary>
-                <![CDATA[
-                    this is the about page
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                this is the about page
-            ]]>
-        </content>
+        <updated>2020-01-16T19:48:26+03:00</updated>
+            <summary></summary>
+        <content></content>
     </entry>
 </feed>

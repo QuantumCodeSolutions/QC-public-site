@@ -27,15 +27,14 @@
             "id": "https://quantumcodesolutions.github.io/QC-public-site/about-us.html",
             "url": "https://quantumcodesolutions.github.io/QC-public-site/about-us.html",
             "title": "About Us",
-            "summary": "this is the about page",
-            "content_html": "this is the about page",
+            "image": "https://quantumcodesolutions.github.io/QC-public-site/media/posts/1/Hand-holding-envelope-logo-mockup.png",
             "author": {
                 "name": "Buaziz"
             },
             "tags": [
             ],
             "date_published": "2020-01-16T18:48:52+03:00",
-            "date_modified": "2020-01-16T18:48:52+03:00"
+            "date_modified": "2020-01-16T19:48:26+03:00"
         }
     ]
 }
